@@ -1,4 +1,4 @@
-# TP - Digital Engineering - Bounoun Manala
+# TP - Digital Engineering - Bounoun Manal
 
 ## Présentation
 Étudiant(e) en 1re année cycle ingénieur (IID) à l'ENSA Khouribga. 
